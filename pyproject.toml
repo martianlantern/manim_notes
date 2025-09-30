@@ -7,4 +7,5 @@ requires-python = ">=3.13"
 dependencies = [
     "setuptools>=75.0.0",
     "audioop-lts>=0.2.0",
+    "manimgl>=1.7.2",
 ]
